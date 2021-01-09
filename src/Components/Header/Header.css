@@ -1,0 +1,11 @@
+h1 {
+    width: 200px;
+    margin-right: 0px;
+    font-weight: lighter;
+    display: inline-block;
+}
+p {
+    width: 300px;
+    margin-right: 0px;
+    display: inline-block;
+}

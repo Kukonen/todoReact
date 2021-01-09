@@ -1,0 +1,50 @@
+.TextBlock {
+    display: inline-block;
+    font-size: 20px;
+    height: 40px;
+    width: 489px;
+    background-color: white;
+    cursor: pointer ;
+}
+
+.btn {
+    margin-left: 15px;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    background-color: white;
+
+}
+
+.ItemBlock {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.importantBtn {
+    color:  blue;
+    background-color: white;
+}
+.importantBtn:hover {
+    color:  white;
+    background-color: blue;
+}
+
+.deleteBtn {
+    color:  red;
+    background-color: white;
+}
+
+.deleteBtn:hover {
+    color:  white;
+    background-color: red;
+}
+
+.importantBlock {
+    font-weight: bold;
+    color: dodgerblue;
+}
+
+.doneBlock {
+    text-decoration: line-through;
+}
